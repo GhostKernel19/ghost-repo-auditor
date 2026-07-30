@@ -1,0 +1,101 @@
+[
+  {
+    "name": "next",
+    "version": "16.2.12",
+    "vulnCount": 0,
+    "vulnIds": [],
+    "lastPublished": "2026-07-25T20:45:53.940Z",
+    "monthsSinceUpdate": 0,
+    "riskLevel": "low"
+  },
+  {
+    "name": "react",
+    "version": "19.2.4",
+    "vulnCount": 0,
+    "vulnIds": [],
+    "lastPublished": "2026-07-21T15:41:28.716Z",
+    "monthsSinceUpdate": 0,
+    "riskLevel": "low"
+  },
+  {
+    "name": "react-dom",
+    "version": "19.2.4",
+    "vulnCount": 0,
+    "vulnIds": [],
+    "lastPublished": "2026-07-21T15:41:41.267Z",
+    "monthsSinceUpdate": 0,
+    "riskLevel": "low"
+  },
+  {
+    "name": "@tailwindcss/postcss",
+    "version": "4",
+    "vulnCount": 0,
+    "vulnIds": [],
+    "lastPublished": "2026-07-16T12:03:56.054Z",
+    "monthsSinceUpdate": 0,
+    "riskLevel": "low"
+  },
+  {
+    "name": "@types/node",
+    "version": "20",
+    "vulnCount": 0,
+    "vulnIds": [],
+    "lastPublished": "2026-07-27T17:32:14.992Z",
+    "monthsSinceUpdate": 0,
+    "riskLevel": "low"
+  },
+  {
+    "name": "@types/react",
+    "version": "19",
+    "vulnCount": 0,
+    "vulnIds": [],
+    "lastPublished": "2026-06-05T20:10:24.692Z",
+    "monthsSinceUpdate": 1,
+    "riskLevel": "low"
+  },
+  {
+    "name": "@types/react-dom",
+    "version": "19",
+    "vulnCount": 0,
+    "vulnIds": [],
+    "lastPublished": "2025-11-12T04:37:39.524Z",
+    "monthsSinceUpdate": 8,
+    "riskLevel": "low"
+  },
+  {
+    "name": "eslint",
+    "version": "9",
+    "vulnCount": 0,
+    "vulnIds": [],
+    "lastPublished": "2026-07-24T20:15:20.693Z",
+    "monthsSinceUpdate": 0,
+    "riskLevel": "low"
+  },
+  {
+    "name": "eslint-config-next",
+    "version": "16.2.12",
+    "vulnCount": 0,
+    "vulnIds": [],
+    "lastPublished": "2026-07-25T20:45:14.519Z",
+    "monthsSinceUpdate": 0,
+    "riskLevel": "low"
+  },
+  {
+    "name": "tailwindcss",
+    "version": "4",
+    "vulnCount": 0,
+    "vulnIds": [],
+    "lastPublished": "2026-07-16T12:03:35.267Z",
+    "monthsSinceUpdate": 0,
+    "riskLevel": "low"
+  },
+  {
+    "name": "typescript",
+    "version": "5",
+    "vulnCount": 0,
+    "vulnIds": [],
+    "lastPublished": "2026-07-08T15:55:18.431Z",
+    "monthsSinceUpdate": 0,
+    "riskLevel": "low"
+  }
+]
